@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	border:1px solid;	
+	
+}
+table{
+	column-width: 100px;
+}
+table table{
+	width:100%;
+	
+}
+
+table table tr{
+	text-align:center;
+}
